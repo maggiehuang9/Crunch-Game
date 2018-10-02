@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Crunch
+comment1.params=
+comment1.target=void\ playCrunch()
+comment2.params=num
+comment2.target=void\ printSticks(int)
+comment3.params=in
+comment3.target=int\ chooseSticks(java.util.Scanner)
+comment4.params=in
+comment4.target=java.lang.String\ playAgain(java.util.Scanner)
+comment5.params=in
+comment5.target=java.lang.String\ goWin(java.util.Scanner)
+numComments=6
